@@ -1,4 +1,5 @@
-# Text_Mining_Project
+# Text Mining Project
+## Amazon Fine Food Reviews
 
-
-This project aims to predict the sentiment of the reviews and then identify clusters.
+The dataset is available on Kaggle.
+This project aims to predict the sentiment of the reviews and then identify main clusters.
