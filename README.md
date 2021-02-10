@@ -1,7 +1,7 @@
 <p align="center">
-  # Text Mining Project
+  
 </p>
-
+# Text Mining Project
 ## Application of a bunch NLP techniques on the Amazon Fine Food Reviews dataset
 
 The dataset is available on Kaggle.
